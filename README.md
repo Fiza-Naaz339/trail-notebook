@@ -114,3 +114,8 @@ entries are not overwritten.
 - Add `--lat/--lon/--date` so BirdNET only considers birds plausible for that place and season.
 - Lower `--min-conf` (for example 0.25) for noisy recordings.
 - The prompt restricts the LLM to the detected species. Low-confidence detections are labelled tentative.
+
+ ## Video
+ 
+
+https://github.com/user-attachments/assets/d9560dc3-387b-4823-a0e1-1b613862ecb2
